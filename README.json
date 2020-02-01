@@ -1,0 +1,7 @@
+{ 
+  "netid": "fz16",
+  "frontend": "http://fz16hw6.surge.sh",
+  "backend": "https://fz16backend.herokuapp.com",
+  "username": "fz16",
+  "password": "123"
+}

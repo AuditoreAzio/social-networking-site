@@ -1,0 +1,6 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/RiceWebDevCourse/final-backend-AuditoreAzio.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/RiceWebDevCourse/final-frontend-AuditoreAzio.git
